@@ -6,7 +6,7 @@ Portfólio pessoal de Mário, estudante do 3º semestre do Bacharelado em Tecnol
 
 Estrutura
 
-text
+``` text
 Mz_Portfolio/
 ├── index.html
 ├── style.css
